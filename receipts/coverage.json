@@ -1,8 +1,8 @@
 {
   "total_entries": 48852,
   "tweets": 48416,
-  "notes": 436,
-  "community": 0,
+  "notes": 435,
+  "community": 1,
   "date_min": "2023-07-18T13:01:44+00:00",
   "date_max": "2026-06-22T16:26:00+00:00",
   "source": "community_archive_api + static archive note/community",
